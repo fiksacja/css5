@@ -1,24 +1,22 @@
 body {
     background-color: bisque;
 }
-.item1 {
+
+h1 {
+    background-color: pink; 
     color: blueviolet;
-    width: 30px;
-    background-color: silver;
- 
 }
-.item2 {
+
+p {
     color: brown;
-    width: 30px;
     background-color: gold;
 }
-.item3 {
+
+h2 {
+    background-color: silver;
     color: yellowgreen;
-    width: 30px;
-    background-color: pink;
 }
-.item4 {
-    color: royalblue;
-    width: 30px;
-    background-color: orange;
+
+h1, p, h2 {
+    text-align: center;
 }
